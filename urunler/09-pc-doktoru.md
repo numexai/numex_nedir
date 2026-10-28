@@ -1,7 +1,7 @@
 # 🩺 PC Doktoru Süper Ajan
 
 **Windows için yapay zeka destekli, portable bakım, teşhis ve tamir asistanı.** · v3.1
-🔗 [pcdoktoru.com.tr](https://pcdoktoru.com.tr) · 💻 [GitHub](https://github.com/mobilcep/pcdoktoru)
+🔗 [pcdoktoru.com.tr](https://pcdoktoru.com.tr) · 💻 [GitHub](https://github.com/numexai/pc-doktoru)
 
 Numex Ailesi'nde **"aynı ekipten"** ürün. Numex Agent'ın *tespit → plan → onay → uygula*
 yaklaşımının Windows masaüstündeki hali.
