@@ -1,0 +1,30 @@
+name: Market eşitle
+# Market sayılarını README'lere işler ve kartı (gorseller/kart-market.png) numex-market'tekiyle aynı tutar; geride kalmasın.
+on:
+  schedule:
+    - cron: '7 4 * * *'   # her gün 07:07 (TSİ) — numex-market kartı çizdikten sonra
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  esitle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Sayıları yenile
+        run: node scripts/market-esitle.mjs
+        env:
+          MARKET_DOSYALAR: README.md,README.en.md,urunler/README.md,urunler/06-hub-ve-forge.md,urunler/13-numex-market.md
+      - name: Kartı numex-market'ten al
+        run: curl -fsSL -o gorseller/kart-market.png https://raw.githubusercontent.com/numexai/numex-market/main/gorseller/banner.png
+      - name: Değiştiyse kaydet
+        run: |
+          if git diff --quiet; then echo "değişiklik yok"; exit 0; fi
+          git config user.name "Numex AI"
+          git config user.email "destek@numexai.com.tr"
+          git add README.md README.en.md urunler scripts/market-sayac.json gorseller/kart-market.png
+          git commit -m "Market güncellendi (numexai.com.tr vitrininden)"
+          git push
