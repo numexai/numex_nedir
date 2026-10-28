@@ -7,7 +7,7 @@
 > **Numex AI'nın sıfırdan kodladığı uygulamalar — hepsi ücretsiz ve açık kaynak.**
 > İster çalışan halini indir, ister kodunu incele, ister kendine göre değiştir.
 
-| **44** | **7** | **₺0** |
+| **60** | **7** | **₺0** |
 |:---:|:---:|:---:|
 | Uygulama | Kategori | Her zaman ücretsiz |
 
@@ -27,12 +27,12 @@ Bu yüzden Market aynı zamanda Numex'in ne üretebildiğinin **canlı kanıtıd
 
 | Kategori | Uygulama | Ne var? |
 |---|:---:|---|
-| 🎮 **Oyunlar** | 6 | Tarayıcıda ve masaüstünde çalışan otonom üretilmiş oyunlar |
-| 🧪 **Simülasyon** | 4 | Etkileşimli simülasyonlar ve görselleştirmeler |
-| 🤖 **Yapay Zeka** | 3 | AI demoları (ör. sinir ağı çekirdeği görselleştirmesi) |
-| 🛠️ **Araçlar / Yardımcı** | 12 | Kelime sayacı, resim düzenleyici, Markdown defter gibi günlük araçlar |
-| ⚡ **Üretkenlik** | 8 | Randevu sistemi, depo/stok yönetimi, envanter gibi iş araçları |
-| 🖥️ **Web / OS** | 3 | Web tabanlı masaüstü/işletim sistemi deneyimleri |
+| 🎮 **Oyunlar** | 7 | Tarayıcıda ve masaüstünde çalışan otonom üretilmiş oyunlar |
+| 🧪 **Simülasyon** | 18 | Etkileşimli simülasyonlar ve görselleştirmeler |
+| 🤖 **Yapay Zeka** | 4 | AI demoları (ör. sinir ağı çekirdeği görselleştirmesi) |
+| 🛠️ **Araçlar / Yardımcı** | 14 | Kelime sayacı, resim düzenleyici, Markdown defter gibi günlük araçlar |
+| ⚡ **Üretkenlik** | 9 | Randevu sistemi, depo/stok yönetimi, envanter gibi iş araçları |
+| 🖥️ **Web / OS** | 7 | Web tabanlı masaüstü/işletim sistemi deneyimleri |
 | 🎓 **Eğitim** | 1 | Öğrenmeye yardımcı etkileşimli uygulamalar |
 
 ## 🎧 Örnek: Cyber Beats
@@ -51,7 +51,7 @@ Market uygulamaları **dene.numexai.com.tr** üzerinde kurulum gerektirmeden can
 | 🔊 **Ses motoru** | Tüm sesler **saf Web Audio API** ile sentezlenir — tek bir ses dosyası yok |
 | 🎨 **Tasarım** | Neon siberpunk arayüz, durum göstergesi (● ÇALIYOR) |
 
-Bir cümlelik istekten çalışan, test edilmiş ve yayınlanmış bir uygulamaya: Market'teki 44
+Bir cümlelik istekten çalışan, test edilmiş ve yayınlanmış bir uygulamaya: Market'teki 60
 uygulamanın her biri bu hattan geçti.
 
 ## Nasıl kullanılır?
@@ -66,7 +66,7 @@ uygulamanın her biri bu hattan geçti.
 ```mermaid
 flowchart LR
   CORE[🧠 Core — Beyin<br/>otonom üretim] --> FORGE[(🏗️ Forge<br/>kaynak kod)]
-  FORGE --> MARKET[🛍️ Market<br/>44 uygulama]
+  FORGE --> MARKET[🛍️ Market<br/>60 uygulama]
   MARKET -->|indir| USER[👤 Kullanıcı]
   MARKET -->|çatalla| HUB[📦 Hub]
   HUB -->|düzenle| CODEX[🧩 Codex]
