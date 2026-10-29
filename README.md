@@ -45,8 +45,8 @@ Türkçe'ye ve Türk kullanıcısına özel — verileri Türkiye'de, KVKK uyuml
 <a href="https://okul.numexai.com.tr">okul.numexai.com.tr</a> · <a href="urunler/11-numex-okul.md">ayrıntı</a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://market.numexai.com.tr"><img src="gorseller/kart-market.png" alt="Numex Market — 60 açık kaynak uygulama"></a>
-<b>🛍️ Numex Market</b> — Numex'in kendi yazdığı 60 ücretsiz, açık kaynak uygulama<br>
+<td width="50%"><a href="https://market.numexai.com.tr"><img src="gorseller/kart-market.png" alt="Numex Market — 61 açık kaynak uygulama"></a>
+<b>🛍️ Numex Market</b> — Numex'in kendi yazdığı 61 ücretsiz, açık kaynak uygulama<br>
 <a href="https://market.numexai.com.tr">market.numexai.com.tr</a> · <a href="urunler/13-numex-market.md">ayrıntı</a></td>
 <td width="50%"><a href="https://pedia.numexai.com.tr"><img src="gorseller/kart-pedia.png" alt="Numexpedia — özgür Türkçe ansiklopedi"></a>
 <b>📖 Numexpedia</b> — bilgisayar ve yapay zekâ, sade Türkçe ile; 28 makale<br>
@@ -90,7 +90,7 @@ Türkçe'ye ve Türk kullanıcısına özel — verileri Türkiye'de, KVKK uyuml
 | **2 × 256 GB** | RAM, çift sunucu | SAS + NAS depolama |
 | **%100** | KVKK uyumu | Veriler Türkiye'de |
 | **100.000** | Hediye token | Geliştirici API'sinde ilk kayıtta |
-| **60** | Açık kaynak uygulama | Numex Market · 7 kategori · ₺0 |
+| **61** | Açık kaynak uygulama | Numex Market · 7 kategori · ₺0 |
 | **28** | Türkçe makale | Numexpedia · 8 kategori |
 | **16+** | Aile üyesi | Uygulamalar · Geliştirici araçları · Platform & topluluk |
 
@@ -143,7 +143,7 @@ flowchart TB
 | [numexai.com.tr/aile](https://www.numexai.com.tr/aile) | Numex Ailesi haritası |
 | [codex.numexai.com.tr](https://codex.numexai.com.tr) | Numex Codex — IDE, VS Code eklentisi, CLI |
 | [okul.numexai.com.tr](https://okul.numexai.com.tr) | Numex Okul — doğrulanmış testler |
-| [market.numexai.com.tr](https://market.numexai.com.tr) | Numex Market — 60 açık kaynak uygulama |
+| [market.numexai.com.tr](https://market.numexai.com.tr) | Numex Market — 61 açık kaynak uygulama |
 | [dene.numexai.com.tr](https://dene.numexai.com.tr/cyberbeats/) | Market uygulamalarının canlı demoları |
 | [hub.numexai.com.tr](https://hub.numexai.com.tr) | Numex Hub — AI depo yönetimi, Topluluk Vitrini |
 | [forge.numexai.com.tr](https://forge.numexai.com.tr) | Numex Forge — Gitea tabanlı Git sunucusu |
@@ -160,7 +160,7 @@ flowchart TB
 | 💬 | **Numex AI** | Herkes | Türkçe sohbet, kod, görsel, ses, belge analizi, web araması, karakterler, Agent modu | [→](urunler/01-numex-ai-platform.md) |
 | 🎓 | **Numex Okul** | Öğrenci · veli · öğretmen | Bir AI soruyu üretir, ikinci AI doğrular; LGS/TYT/AYT/ehliyet; ekranda çöz veya PDF | [→](urunler/11-numex-okul.md) |
 | 🧩 | **Numex Codex** | Geliştirici | Türkçe kod ajanı: Web editör, masaüstü IDE (v2.9.59), VS Code eklentisi; Sohbet · Plan · Otonom · Hata Avcısı | [→](urunler/03-numex-codex-ide.md) |
-| 🛍️ | **Numex Market** | Herkes | Numex'in otonom ürettiği 60 ücretsiz, açık kaynak uygulama; 7 kategori | [→](urunler/13-numex-market.md) |
+| 🛍️ | **Numex Market** | Herkes | Numex'in otonom ürettiği 61 ücretsiz, açık kaynak uygulama; 7 kategori | [→](urunler/13-numex-market.md) |
 | ⌨️ | **Numex CLI** | Geliştirici | Terminalde otonom ajan (v3.3.10), misyon/plan modu, uzaktan PC köprüsü, MCP | [→](urunler/02-numex-cli.md) |
 | 🧰 | **Codex SDK** | Geliştirici | Çekirdeği uygulamana göm: chat · embeddings · images · models · search · CLI Bridge | [→](urunler/05-api-ve-sdk.md) |
 | 🔌 | **Developer API** | Yazılım ekipleri | REST v1; `numex-pro` · `fast` · `think` · `vision` · `code`; streaming, function calling; ilk kayıtta 100K token | [→](urunler/05-api-ve-sdk.md) |
@@ -331,7 +331,7 @@ KDV dahil, şeffaf. Yıllık ödemede **2 ay bedava**.
 | **2024** | **Detective Mode™** — çoklu model tartışma ve hakem sistemi. |
 | **2025** | **v3.0** — sıfırdan yeniden yazım: Pipeline, karakterler, planlar, Dış API (`/v1/chat/completions`), admin paneli, çift sunucu. **DeepView™ v1.0** (Mart). |
 | **2026 Şubat** | **v3.1** — ilk genel kullanıcı sürümü: Pro/Fast/Vision/Code, paylaşılabilir sohbetler, misafir kullanım, OAuth, Codex editörü. |
-| **2026** | **Numex Ailesi**: Codex IDE v2.9.59 & CLI v3.3.10, Okul, Market (60 uygulama), Numexpedia, Hub & Forge, Oyun Bahçesi; aynı ekipten **Pusulam** ve **PC Doktoru v3.1**. |
+| **2026** | **Numex Ailesi**: Codex IDE v2.9.59 & CLI v3.3.10, Okul, Market (61 uygulama), Numexpedia, Hub & Forge, Oyun Bahçesi; aynı ekipten **Pusulam** ve **PC Doktoru v3.1**. |
 
 **Kurucu — Nurullah Şahin** · Kurucu & AI Mimarı. Sivas Gürün kökenli, İstanbul'da yaşayan teknoloji
 girişimcisi; 2010'dan bu yana yapay zeka ve makine öğrenmesi alanında çalışıyor. Panorama Istanbul

@@ -35,8 +35,8 @@ Turkish-first by design — data stays in Türkiye, KVKK (Turkish GDPR) complian
 <a href="https://okul.numexai.com.tr">okul.numexai.com.tr</a> · <a href="urunler/11-numex-okul.md">details</a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://market.numexai.com.tr"><img src="gorseller/kart-market.png" alt="Numex Market — 60 açık kaynak uygulama"></a>
-<b>🛍️ Numex Market</b> — 60 free, open-source apps Numex built by itself<br>
+<td width="50%"><a href="https://market.numexai.com.tr"><img src="gorseller/kart-market.png" alt="Numex Market — 61 açık kaynak uygulama"></a>
+<b>🛍️ Numex Market</b> — 61 free, open-source apps Numex built by itself<br>
 <a href="https://market.numexai.com.tr">market.numexai.com.tr</a> · <a href="urunler/13-numex-market.md">details</a></td>
 <td width="50%"><a href="https://pedia.numexai.com.tr"><img src="gorseller/kart-pedia.png" alt="Numexpedia — özgür Türkçe ansiklopedi"></a>
 <b>📖 Numexpedia</b> — computing and AI explained in plain Turkish; 28 articles<br>
@@ -54,7 +54,7 @@ Turkish-first by design — data stays in Türkiye, KVKK (Turkish GDPR) complian
 | **16+** | Products in the Numex family |
 | **5-stage** | Pipeline that turns every answer into natural Turkish |
 | **128K** | Token context window |
-| **60** | Open-source apps in Numex Market, all built autonomously |
+| **61** | Open-source apps in Numex Market, all built autonomously |
 | **28** | Articles in Numexpedia, a free Turkish encyclopedia |
 | **2 × 256 GB** | RAM, dual-server infrastructure in Türkiye |
 | **100,000** | Free API tokens on sign-up |
@@ -100,7 +100,7 @@ flowchart TB
 | 💬 **Numex AI** | Everyone | Turkish chat, code, documents, web search, vision, voice, cultural characters, Agent mode | [numexai.com.tr](https://numexai.com.tr) |
 | 🎓 **Numex Okul** | Students, parents, teachers | One AI writes each question, a second AI solves it independently; mismatches are discarded. LGS/TYT/AYT exam prep, driving test; solve on screen or export PDF | [okul.numexai.com.tr](https://okul.numexai.com.tr) |
 | 🧩 **Numex Codex** | Developers | Turkish coding agent: browser editor, desktop IDE (v2.9.59, VS Code based), VS Code extension. Modes: Chat · Plan · Autonomous · Bug Hunter | [codex.numexai.com.tr](https://codex.numexai.com.tr) |
-| 🛍️ **Numex Market** | Everyone | 60 free, open-source apps Numex built autonomously, in 7 categories — try live, read the source, fork | [market.numexai.com.tr](https://market.numexai.com.tr) |
+| 🛍️ **Numex Market** | Everyone | 61 free, open-source apps Numex built autonomously, in 7 categories — try live, read the source, fork | [market.numexai.com.tr](https://market.numexai.com.tr) |
 | ⌨️ **Numex CLI** | Developers | Autonomous agent in the terminal (v3.3.10): plan mode, long-running missions, undo, offline via Ollama, remote-PC bridge, MCP | `npm i -g @numexai/cli` |
 | 🧰 **Codex SDK** | Developers | chat · embeddings · images · models · search + a CLI Bridge to embed the agent anywhere | `npm i numexcodex-sdk` |
 | 🔌 **Developer API** | Teams | REST v1 with `numex-pro`, `numex-fast`, `numex-think`, `numex-vision`, `numex-code`; streaming, function calling | [API docs](urunler/05-api-ve-sdk.md) |
@@ -129,7 +129,7 @@ flowchart TB
    cannot be marked "done" without live evidence — HTTP 200, passing tests, or DOM checks.
 
 **Proof over claims** runs through the whole family: Detective Mode in chat, dual-AI verification
-in Okul, FinishGate in code — and Numex Market, where 60 autonomously built, verified apps are open
+in Okul, FinishGate in code — and Numex Market, where 61 autonomously built, verified apps are open
 for anyone to inspect.
 
 ## 🇹🇷 Cultural characters
