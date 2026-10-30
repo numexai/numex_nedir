@@ -14,7 +14,7 @@
 | 10 | [PusulamX](10-pusulamx.md) | KOBİ |
 | 11 | [Numex Okul](11-numex-okul.md) | Eğitim — doğrulanmış testler |
 | 12 | [Güvenlik, gizlilik ve KVKK](12-guvenlik-kvkk.md) | Kurumsal |
-| 13 | [Numex Market](13-numex-market.md) | Herkes — 61 açık kaynak uygulama |
+| 13 | [Numex Market](13-numex-market.md) | Herkes — 62 açık kaynak uygulama |
 | 14 | [Numexpedia](14-numexpedia.md) | Herkes — Türkçe ansiklopedi |
 | 15 | [Numex Ailesi](15-numex-ailesi.md) | Ekosistem haritası |
 | 16 | [Oyun Bahçesi](16-oyun-bahcesi.md) | Herkes |

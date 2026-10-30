@@ -91,7 +91,7 @@ Numex'in otonom ürettiği uygulamaların kaynak kodu Forge'da herkese açık du
 flowchart LR
     CODEX[Codex Web / IDE / CLI] -->|proje| FORGE[(🏗️ Forge<br/>Gitea · gerçek Git)]
     HUB[📦 Hub<br/>AI depo arayüzü] <--> FORGE
-    MARKET[🛍️ Numex Market<br/>61 açık kaynak uygulama] -->|kaynak kodu| FORGE
+    MARKET[🛍️ Numex Market<br/>62 açık kaynak uygulama] -->|kaynak kodu| FORGE
     PEDIA[📖 Numexpedia] -.bağlantı.-> FORGE
 ```
 
