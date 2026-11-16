@@ -7,7 +7,7 @@
 > **Numex AI'nın sıfırdan kodladığı uygulamalar — hepsi ücretsiz ve açık kaynak.**
 > İster çalışan halini indir, ister kodunu incele, ister kendine göre değiştir.
 
-| **77** | **8** | **₺0** |
+| **84** | **8** | **₺0** |
 |:---:|:---:|:---:|
 | Uygulama | Kategori | Her zaman ücretsiz |
 
@@ -51,7 +51,7 @@ Market uygulamaları **dene.numexai.com.tr** üzerinde kurulum gerektirmeden can
 | 🔊 **Ses motoru** | Tüm sesler **saf Web Audio API** ile sentezlenir — tek bir ses dosyası yok |
 | 🎨 **Tasarım** | Neon siberpunk arayüz, durum göstergesi (● ÇALIYOR) |
 
-Bir cümlelik istekten çalışan, test edilmiş ve yayınlanmış bir uygulamaya: Market'teki 77
+Bir cümlelik istekten çalışan, test edilmiş ve yayınlanmış bir uygulamaya: Market'teki 84
 uygulamanın her biri bu hattan geçti.
 
 ## Nasıl kullanılır?
@@ -66,7 +66,7 @@ uygulamanın her biri bu hattan geçti.
 ```mermaid
 flowchart LR
   CORE[🧠 Core — Beyin<br/>otonom üretim] --> FORGE[(🏗️ Forge<br/>kaynak kod)]
-  FORGE --> MARKET[🛍️ Market<br/>77 uygulama]
+  FORGE --> MARKET[🛍️ Market<br/>84 uygulama]
   MARKET -->|indir| USER[👤 Kullanıcı]
   MARKET -->|çatalla| HUB[📦 Hub]
   HUB -->|düzenle| CODEX[🧩 Codex]
